@@ -1,2 +1,2 @@
-# react-dnd-project
+# react-project
 my react project
